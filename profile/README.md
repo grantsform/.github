@@ -99,7 +99,7 @@
 `--`
 
 ### INTERESTS
-Conversational / Interactive Systems, AR/VR Interfaces, Spatial Computing, Distributed Computing, Realtime Network Synchronization, Large-Language-Models, Language Development, Homoiconicity, List Processing (ie: LISP).
+Conversational / Interactive Systems, XR Interfaces, Spatial Computing, Distributed Computing, Realtime Network Synchronization, Large-Language-Models, Language Development, Homoiconicity, List Processing (ie: LISP).
 
 ### ROADMAP
 
