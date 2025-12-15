@@ -136,7 +136,7 @@ https://grantsform.github.io
     <td><h4><a href="https://grantsform.github.io/vaults/spatial/index.html">🪐<br>Spatial</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/aiaiai/index.html">🎭<br>AiAiAi</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/orange/index.html">λ<br>Orange</a></h4></td>
-    <td><h4><a href="https://grantsform.github.io/vaults/dise/index.html">🏝️<br>()Dise</a></h4></td>
+    <td><h4><a href="https://grantsform.github.io/vaults/odise/index.html">🏝️<br>()Dise</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/shift/index.html">⚙️<br>Shift</a></h4></td>
   </tr>
 </table>
