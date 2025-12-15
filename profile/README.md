@@ -103,7 +103,7 @@ Conversational / Interactive Systems, AR/VR Interfaces, Spatial Computing, Distr
 
 ### ROADMAP
 
-All-in on Studying [Godot](https://github.com/godotengine.org) via [GDMod](https://github.com/grantsform/gdmod); Then mid-to-end of it (2026) -- Start Contributing To [BarkVR](https://github.com/zodiepupper/barkvr).
+All-in on Studying [Godot](https://github.com/godotengine.org) x Some [Lisp](https://github.com/godot-lisp); Then early (2026) -- Start Contributing To [BarkVR](https://github.com/zodiepupper/barkvr).
 
 ### STATUS
 #### [2025-12-02]
