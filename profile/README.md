@@ -113,7 +113,7 @@ All-in on Studying [Godot](https://github.com/godotengine.org) x Some [Lisp](htt
    - Iterate quickly, and as dirty as needed -- not meant for anyone to actually use long-term. 
    - Basically a first-pass attempt at / prototype for Demodisk proper.
 
-[View More](https://github.com/grantsform/grantsform-github/blob/main/profile/EVENTS.md)
+[View More](https://github.com/grantsform/.github/blob/main/profile/EVENTS.md)
 
 -----
 
