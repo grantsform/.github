@@ -103,17 +103,17 @@ Conversational / Interactive Systems, XR Interfaces, Spatial Computing, Distribu
 
 ### ROADMAP
 
-All-in on Studying [Godot](https://github.com/godotengine.org) x Some [Lisp](https://github.com/godot-lisp); Then early (2026) -- Start Contributing To [BarkVR](https://github.com/zodiepupper/barkvr).
+All-in on Studying [Godot](https://github.com/godotengine.org) x Some [Lisp](https://github.com/godot-lisp); Then early (2026) -- Start Working On [Demod](https://github.com/demodisk/demod).
 
 ### STATUS
-#### [2025-12-02]
-- Just Godoing For It.
-   - Deep-dive into learning Godot pretty much all of 2026.
-   - At least for the next 4-6 Months; 2-3 Hours a day at minimum. (Just About) Everyday.
-   - Stream **at least** once a week, to keep me honest. Upload at least bi-monthly for the same purpose.
-   - Goal is to go from `expert beginner` to intermediate... to immediately into an '(absurdly) big project.'. lol
+#### [2025-12-25]
+- Demod'lition Derby.
+   - Start working on a GMod-Like To See What Is Needed For Desired Level Of In-Game Scripting.
+   - Will be a vehicle to learn Godot in-general; And eventually GDExtension enough for Godot-Lisp.
+   - Iterate quickly, and as dirty as needed -- not meant for anyone to actually use long-term. 
+   - Basically a first-pass attempt at / prototype for Demodisk proper.
 
-[`View More`](...)
+[View More](https://github.com/grantsform/grantsform-github/blob/main/profile/EVENTS.md)
 
 -----
 
