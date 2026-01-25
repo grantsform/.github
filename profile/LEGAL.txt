@@ -1,0 +1,24 @@
+This Repo Is Under The CC-BY 4.x License,
+Unless Explicitly Stated Otherwise And/Or
+Unless Said Content Does Not Originate From
+Joshua Steven Grant (ie: Jost Grant).
+
+
+~= Excluded =~
+
+* Files in the `assets/fontawesome` directory
+are part of FontAwesome and as-such fall under
+the same licensing as that project, which ...
+
+You can see the terms of which here:
+https://github.com/FortAwesome/Font-Awesome?tab=License-1-ov-file#readme
+
+--
+
+* Files in the `assets/emojis/noto` directory
+are part of Noto Emoji and as-such fall under
+the same licensing as that project, which ...
+
+You can see the terms of which here:
+https://github.com/googlefonts/noto-emoji?tab=readme-ov-file#license
+
