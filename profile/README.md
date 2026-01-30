@@ -153,6 +153,9 @@ https://grantsform.github.io
     <a href="https://grantsform.github.io/vaults/" target="_blank">Ring Around The Nosy.</a>
 </div>
 
-
-
-
+<div align="center">
+<details>
+<summary>Vaults Description</summary>
+<p>These are web-viewable Obsidian vaults containing my notes, thoughts, and knowledge bases on various topics. Each vault represents a different area of interest or project.</p>
+</details>
+</div>
