@@ -156,6 +156,47 @@ https://grantsform.github.io
 <div align="center">
 <details>
 <summary>Vaults Description</summary>
-<p>These are web-viewable Obsidian vaults containing my notes, thoughts, and knowledge bases on various topics. Each vault represents a different area of interest or project.</p>
+<table>
+  <tr>
+    <th>Icon</th>
+    <th>Vault Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>🚢</td>
+    <td>Island</td>
+    <td>Notes on exploration, isolation, and personal retreats.</td>
+  </tr>
+  <tr>
+    <td>🪨</td>
+    <td>Stone</td>
+    <td>Foundational knowledge and solid, unchanging concepts.</td>
+  </tr>
+  <tr>
+    <td>λ</td>
+    <td>Astoid</td>
+    <td>Astronomical observations and space-related thoughts.</td>
+  </tr>
+  <tr>
+    <td>✨</td>
+    <td>Clergy</td>
+    <td>Spiritual and philosophical reflections.</td>
+  </tr>
+  <tr>
+    <td>🐑</td>
+    <td>Dolly</td>
+    <td>AI, cloning, and innovative creations.</td>
+  </tr>
+  <tr>
+    <td>🍼</td>
+    <td>Nurse</td>
+    <td>Health, care, and nurturing topics.</td>
+  </tr>
+  <tr>
+    <td>👶🏻</td>
+    <td>Grunts</td>
+    <td>Programming, development, and grunt work.</td>
+  </tr>
+</table>
 </details>
 </div>
