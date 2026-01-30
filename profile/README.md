@@ -163,39 +163,39 @@ https://grantsform.github.io
     <th>Description</th>
   </tr>
   <tr>
-    <td>🚢</td>
-    <td>Island</td>
-    <td>Notes on exploration, isolation, and personal retreats.</td>
+    <td><a href="https://grantsform.github.io/vaults/island/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_ship.webp" alt="🚢" height="20"></a></td>
+    <td><a href="https://grantsform.github.io/vaults/island/index.html">Island</a></td>
+    <td style="text-align: left;">Notes on exploration, isolation, and personal retreats.</td>
   </tr>
   <tr>
-    <td>🪨</td>
-    <td>Stone</td>
-    <td>Foundational knowledge and solid, unchanging concepts.</td>
+    <td><a href="https://grantsform.github.io/vaults/stone/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_rock.webp" alt="🪨" height="20"></a></td>
+    <td><a href="https://grantsform.github.io/vaults/stone/index.html">Stone</a></td>
+    <td style="text-align: left;">Foundational knowledge and solid, unchanging concepts.</td>
   </tr>
   <tr>
-    <td>λ</td>
-    <td>Astoid</td>
-    <td>Astronomical observations and space-related thoughts.</td>
+    <td><a href="https://grantsform.github.io/vaults/astoid/index.html"><img src="/profile/asset/emojis/mine/the-lambda.webp" alt="λ" height="20"></a></td>
+    <td><a href="https://grantsform.github.io/vaults/astoid/index.html">Astoid</a></td>
+    <td style="text-align: left;">Astronomical observations and space-related thoughts.</td>
   </tr>
   <tr>
-    <td>✨</td>
-    <td>Clergy</td>
-    <td>Spiritual and philosophical reflections.</td>
+    <td><a href="https://grantsform.github.io/vaults/clergy/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dizzy.webp" alt="✨" height="20"></a></td>
+    <td><a href="https://grantsform.github.io/vaults/clergy/index.html">Clergy</a></td>
+    <td style="text-align: left;">Spiritual and philosophical reflections.</td>
   </tr>
   <tr>
-    <td>🐑</td>
-    <td>Dolly</td>
-    <td>AI, cloning, and innovative creations.</td>
+    <td><a href="https://grantsform.github.io/vaults/alonzo/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_ewe.webp" alt="🐑" height="20"></a></td>
+    <td><a href="https://grantsform.github.io/vaults/alonzo/index.html">Dolly</a></td>
+    <td style="text-align: left;">AI, cloning, and innovative creations.</td>
   </tr>
   <tr>
-    <td>🍼</td>
-    <td>Nurse</td>
-    <td>Health, care, and nurturing topics.</td>
+    <td><a href="https://grantsform.github.io/vaults/nurse/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_baby_bottle.webp" alt="🍼" height="20"></a></td>
+    <td><a href="https://grantsform.github.io/vaults/nurse/index.html">Nurse</a></td>
+    <td style="text-align: left;">Health, care, and nurturing topics.</td>
   </tr>
   <tr>
-    <td>👶🏻</td>
-    <td>Grunts</td>
-    <td>Programming, development, and grunt work.</td>
+    <td><a href="https://grantsform.github.io/vaults/grunts/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_baby_light.png" alt="👶🏻" height="20"></a></td>
+    <td><a href="https://grantsform.github.io/vaults/grunts/index.html">Grunts</a></td>
+    <td style="text-align: left;">Programming, development, and grunt work.</td>
   </tr>
 </table>
 </details>
