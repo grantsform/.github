@@ -141,7 +141,7 @@ https://grantsform.github.io
 <div align="center">
 <table>
   <tr>
-    <td><h4><a href="https://grantsform.github.io/vaults/island/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_ship.webp" alt="🚢" height="30"><br>Island</a></h4></td>
+    <td><h4><a href="https://grantsform.github.io/vaults/island/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_wave.webp" alt="🌊" height="30"><br>Island</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/stone/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_rock.webp" alt="🪨" height="30"><br>Stone</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/astoid/index.html"><img src="/profile/asset/emojis/mine/the-lambda.webp" alt="λ" height="30"><br>Astoid</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/clergy/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dizzy.webp" alt="✨" height="30"><br>Clergy</a></h4></td>
@@ -163,7 +163,7 @@ https://grantsform.github.io
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://grantsform.github.io/vaults/island/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_ship.webp" alt="🚢" height="20"></a></td>
+    <td><a href="https://grantsform.github.io/vaults/island/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_wave.webp" alt="🌊" height="20"></a></td>
     <td><a href="https://grantsform.github.io/vaults/island/index.html">Island</a></td>
     <td style="text-align: left;">Notes on exploration, isolation, and personal retreats.</td>
   </tr>
