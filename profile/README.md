@@ -143,10 +143,10 @@ https://grantsform.github.io
     <td><h4><a href="https://grantsform.github.io/vaults/island/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_wave.webp" alt="🌊" height="30"><br>Island</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/stone/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_rock.webp" alt="🪨" height="30"><br>Stone</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/astoid/index.html"><img src="/profile/asset/emojis/mine/the-lambda.webp" alt="λ" height="30"><br>Astoid</a></h4></td>
-    <td><h4><a href="https://grantsform.github.io/vaults/clergy/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dizzy.webp" alt="✨" height="30"><br>Clergy</a></h4></td>
+    <td><h4><a href="https://grantsform.github.io/vaults/cirice/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dizzy.webp" alt="✨" height="30"><br>Cirice</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/knight/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dragon.webp" alt="🐉" height="30"><br>Knight</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/dolly/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_ewe.webp" alt="🐑" height="30"><br>Dolly</a></h4></td>
-    <td><h4><a href="https://grantsform.github.io/vaults/whirl/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_tornado.webp" alt="🌪️" height="30"><br>Grunts</a></h4></td>
+    <td><h4><a href="https://grantsform.github.io/vaults/whirl/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_tornado.webp" alt="🌪️" height="30"><br>Whirl</a></h4></td>
   </tr>
 </table>
     <a href="https://grantsform.github.io/vaults/" target="_blank">Ring Around The Nosy.</a>
@@ -177,8 +177,8 @@ https://grantsform.github.io
     <td style="text-align: left;">Regarding Megalisp & Building Big Things.</td>
   </tr>
   <tr>
-    <td><a href="https://grantsform.github.io/vaults/clergy/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dizzy.webp" alt="✨" height="20"></a></td>
-    <td><a href="https://grantsform.github.io/vaults/clergy/index.html">Clergy</a></td>
+    <td><a href="https://grantsform.github.io/vaults/cirice/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dizzy.webp" alt="✨" height="20"></a></td>
+    <td><a href="https://grantsform.github.io/vaults/cirice/index.html">Clergy</a></td>
     <td style="text-align: left;">Cleric, A Meta-Lisp & Its Ecosysem.</td>
   </tr>
   <tr>
