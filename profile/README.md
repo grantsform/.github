@@ -102,8 +102,7 @@
 Conversational / Interactive Systems, XR Interfaces, Spatial Computing, Distributed Computing, Realtime Network Synchronization, Large-Language-Models, Language Development, Homoiconicity, List Processing (ie: LISP).
 
 ### ROADMAP
-
-Aiming To Start Work On [Cleric](https://github.com/cleric-lang) (& [Related](https://github.com/clogma) [Ecosystem](nnachina)) Q4 2026 -- Let's Evalgelize Lisp To The Next-Gen!
+Working On [Mideval](https://github.com/mideval); The Midpoint Between The Dream Of Lisp & Whatever "This" (The Current Mainstream) Even Is
 
 ### STATUS
 #### [2026-01-16]
