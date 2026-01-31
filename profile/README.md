@@ -178,7 +178,7 @@ https://grantsform.github.io
   </tr>
   <tr>
     <td><a href="https://grantsform.github.io/vaults/cirice/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dizzy.webp" alt="✨" height="20"></a></td>
-    <td><a href="https://grantsform.github.io/vaults/cirice/index.html">Clergy</a></td>
+    <td><a href="https://grantsform.github.io/vaults/cirice/index.html">Circie</a></td>
     <td style="text-align: left;">Cleric, A Meta-Lisp & Its Ecosysem.</td>
   </tr>
   <tr>
