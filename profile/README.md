@@ -146,7 +146,7 @@ https://grantsform.github.io
     <td><h4><a href="https://grantsform.github.io/vaults/clergy/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dizzy.webp" alt="✨" height="30"><br>Clergy</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/knight/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dragon.webp" alt="🐉" height="30"><br>Knight</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/dolly/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_ewe.webp" alt="🐑" height="30"><br>Dolly</a></h4></td>
-    <td><h4><a href="https://grantsform.github.io/vaults/grunts/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_tornado.webp" alt="🌪️" height="30"><br>Grunts</a></h4></td>
+    <td><h4><a href="https://grantsform.github.io/vaults/whirl/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_tornado.webp" alt="🌪️" height="30"><br>Grunts</a></h4></td>
   </tr>
 </table>
     <a href="https://grantsform.github.io/vaults/" target="_blank">Ring Around The Nosy.</a>
@@ -179,22 +179,22 @@ https://grantsform.github.io
   <tr>
     <td><a href="https://grantsform.github.io/vaults/clergy/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dizzy.webp" alt="✨" height="20"></a></td>
     <td><a href="https://grantsform.github.io/vaults/clergy/index.html">Clergy</a></td>
-    <td style="text-align: left;">Cleric: A Meta-Lisp For The Next-Gen.</td>
+    <td style="text-align: left;">Cleric, A Meta-Lisp & Its Ecosysem.</td>
   </tr>
   <tr>
     <td><a href="https://grantsform.github.io/vaults/knight/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dragon.webp" alt="🐉" height="20"></a></td>
     <td><a href="https://grantsform.github.io/vaults/knight/index.html">Knight</a></td>
-    <td style="text-align: left;">Midev</td>
+    <td style="text-align: left;">Mideval, A Midpoint To The Magic Of Lisp.</td>
   </tr>
   <tr>
     <td><a href="https://grantsform.github.io/vaults/alonzo/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_ewe.webp" alt="🐑" height="20"></a></td>
     <td><a href="https://grantsform.github.io/vaults/alonzo/index.html">Dolly</a></td>
-    <td style="text-align: left;">Lisp Exploration And Implementations.</td>
+    <td style="text-align: left;">On Lisp Exploration And Implementations.</td>
   </tr>
   <tr>
-    <td><a href="https://grantsform.github.io/vaults/grunts/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_tornado.webp" alt="🌪️" height="20"></a></td>
-    <td><a href="https://grantsform.github.io/vaults/grunts/index.html">Grunts</a></td>
-    <td style="text-align: left;">Expressing My Personal Views x Maturing Them.</td>
+    <td><a href="https://grantsform.github.io/vaults/whirl/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_tornado.webp" alt="🌪️" height="20"></a></td>
+    <td><a href="https://grantsform.github.io/vaults/whirl/index.html">Whirl</a></td>
+    <td style="text-align: left;">Attempting Things Outside My Comfort Zone.</td>
   </tr>
 </table>
 </details>
