@@ -102,7 +102,7 @@
 Conversational / Interactive Systems, XR Interfaces, Spatial Computing, Distributed Computing, Realtime Network Synchronization, Large-Language-Models, Language Development, Homoiconicity, List Processing (ie: LISP).
 
 ### ROADMAP
-Working On [Mideval](https://github.com/mideval); The Midpoint Between The Dream Of Lisp & Whatever "This" (The Current Mainstream) Even Is
+All In On [Mideval](https://github.com/mideval); The Midpoint Between The Dream Of Lisp & Whatever "This" (The Current Mainstream) Even Is.
 
 ### STATUS
 #### [2026-01-16]
@@ -118,7 +118,7 @@ Working On [Mideval](https://github.com/mideval); The Midpoint Between The Dream
 
 ### CANON
 
-https://grantsform.github.io/canon/
+https://grantcanon.github.io/
 
 Grant's Community.
 
@@ -154,7 +154,7 @@ https://grantsform.github.io
 
 <div align="center">
 <details>
-<summary>Vaults Description</summary>
+<summary>=Vaults Desc=</summary>
 <table>
   <tr>
     <th>Icon</th>
