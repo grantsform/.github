@@ -192,7 +192,7 @@ https://grantsform.github.io
     <td style="text-align: left;">Lisp Exploration And Implementations.</td>
   </tr>
   <tr>
-    <td><a href="https://grantsform.github.io/vaults/grunts/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_baby_light.png" alt="🌪️" height="20"></a></td>
+    <td><a href="https://grantsform.github.io/vaults/grunts/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_tornado.webp" alt="🌪️" height="20"></a></td>
     <td><a href="https://grantsform.github.io/vaults/grunts/index.html">Grunts</a></td>
     <td style="text-align: left;">Expressing My Personal Views x Maturing Them.</td>
   </tr>
