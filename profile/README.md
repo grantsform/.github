@@ -146,7 +146,7 @@ https://grantsform.github.io
     <td><h4><a href="https://grantsform.github.io/vaults/clergy/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dizzy.webp" alt="✨" height="30"><br>Clergy</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/knight/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dragon.webp" alt="🐉" height="30"><br>Knight</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/dolly/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_ewe.webp" alt="🐑" height="30"><br>Dolly</a></h4></td>
-    <td><h4><a href="https://grantsform.github.io/vaults/grunts/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_baby_light.png" alt="🌪️" height="30"><br>Grunts</a></h4></td>
+    <td><h4><a href="https://grantsform.github.io/vaults/grunts/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_tornado.webp" alt="🌪️" height="30"><br>Grunts</a></h4></td>
   </tr>
 </table>
     <a href="https://grantsform.github.io/vaults/" target="_blank">Ring Around The Nosy.</a>
