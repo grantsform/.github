@@ -144,7 +144,7 @@ https://grantsform.github.io
     <td><h4><a href="https://grantsform.github.io/vaults/stone/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_rock.webp" alt="🪨" height="30"><br>Stone</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/astoid/index.html"><img src="/profile/asset/emojis/mine/the-lambda.webp" alt="λ" height="30"><br>Astoid</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/clergy/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dizzy.webp" alt="✨" height="30"><br>Clergy</a></h4></td>
-    <td><h4><a href="https://grantsform.github.io/vaults/alonzo/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_ewe.webp" alt="🐑" height="30"><br>Dolly</a></h4></td>
+    <td><h4><a href="https://grantsform.github.io/vaults/dolly/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_ewe.webp" alt="🐑" height="30"><br>Dolly</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/nurse/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_baby_bottle.webp" alt="🍼" height="30"><br>Nurse</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/grunts/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_baby_light.png" alt="👶🏻" height="30"><br>Grunts</a></h4></td>
   </tr>
@@ -164,37 +164,37 @@ https://grantsform.github.io
   <tr>
     <td><a href="https://grantsform.github.io/vaults/island/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_wave.webp" alt="🌊" height="20"></a></td>
     <td><a href="https://grantsform.github.io/vaults/island/index.html">Island</a></td>
-    <td style="text-align: left;">Notes on exploration, isolation, and personal retreats.</td>
+    <td style="text-align: left;">Random Thoughts And Idea Fragments.</td>
   </tr>
   <tr>
     <td><a href="https://grantsform.github.io/vaults/stone/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_rock.webp" alt="🪨" height="20"></a></td>
     <td><a href="https://grantsform.github.io/vaults/stone/index.html">Stone</a></td>
-    <td style="text-align: left;">Foundational knowledge and solid, unchanging concepts.</td>
+    <td style="text-align: left;">The Living-Document For The Lith Language.</td>
   </tr>
   <tr>
     <td><a href="https://grantsform.github.io/vaults/astoid/index.html"><img src="/profile/asset/emojis/mine/the-lambda.webp" alt="λ" height="20"></a></td>
     <td><a href="https://grantsform.github.io/vaults/astoid/index.html">Astoid</a></td>
-    <td style="text-align: left;">Astronomical observations and space-related thoughts.</td>
+    <td style="text-align: left;">Regarding Megalisp & Building Big Things.</td>
   </tr>
   <tr>
     <td><a href="https://grantsform.github.io/vaults/clergy/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dizzy.webp" alt="✨" height="20"></a></td>
     <td><a href="https://grantsform.github.io/vaults/clergy/index.html">Clergy</a></td>
-    <td style="text-align: left;">Spiritual and philosophical reflections.</td>
+    <td style="text-align: left;">Cleric: A Meta-Lisp For The Next-Gen.</td>
   </tr>
   <tr>
     <td><a href="https://grantsform.github.io/vaults/alonzo/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_ewe.webp" alt="🐑" height="20"></a></td>
     <td><a href="https://grantsform.github.io/vaults/alonzo/index.html">Dolly</a></td>
-    <td style="text-align: left;">AI, cloning, and innovative creations.</td>
+    <td style="text-align: left;">Lisp Exploration And Implementations.</td>
   </tr>
   <tr>
     <td><a href="https://grantsform.github.io/vaults/nurse/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_baby_bottle.webp" alt="🍼" height="20"></a></td>
     <td><a href="https://grantsform.github.io/vaults/nurse/index.html">Nurse</a></td>
-    <td style="text-align: left;">Health, care, and nurturing topics.</td>
+    <td style="text-align: left;">Dropbox Of Work-In-Progress Stuff.</td>
   </tr>
   <tr>
     <td><a href="https://grantsform.github.io/vaults/grunts/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_baby_light.png" alt="👶🏻" height="20"></a></td>
     <td><a href="https://grantsform.github.io/vaults/grunts/index.html">Grunts</a></td>
-    <td style="text-align: left;">Programming, development, and grunt work.</td>
+    <td style="text-align: left;">Expressing My Personal Views x Maturing Them.</td>
   </tr>
 </table>
 </details>
