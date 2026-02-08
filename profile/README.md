@@ -145,7 +145,7 @@ https://grantsform.github.io
     <td><h4><a href="https://grantsform.github.io/vaults/knight/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dragon.webp" alt="🐉" height="30"><br>&nbsp;&nbsp;Knight&nbsp;&nbsp;</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/essmble/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_dizzy.webp" alt="💫" height="30"><br>Essmble</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/machina/index.html"><img src="/profile/asset/emojis/mine/the-lambda.webp" alt="λ" height="30"><br>Machina</a></h4></td>
-    <td><h4><a href="https://grantsform.github.io/vaults/tyscape/index.html"><img src="/profile/asset/emojis/noto/noto-emoji-building_construction.webp" alt="🏗️" height="30"><br>Tyscape</a></h4></td>
+    <td><h4><a href="https://grantsform.github.io/vaults/tscape/index.html"><img src="/profile/asset/emojis/noto/noto-emoji-building_construction.webp" alt="🏗️" height="30"><br>Tscape</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/dolly/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_ewe.webp" alt="🐑" height="30"><br>&nbsp;&nbsp;&nbsp;Dolly&nbsp;&nbsp;&nbsp;</a></h4></td>
     <td><h4><a href="https://grantsform.github.io/vaults/whirl/index.html"><img src="/profile/asset/emojis/noto/noto-emoji_tornado.webp" alt="🌪️" height="30"><br>&nbsp;&nbsp;&nbsp;Whirl&nbsp;&nbsp;&nbsp;</a></h4></td>
   </tr>
@@ -188,8 +188,8 @@ https://grantsform.github.io
     <td style="text-align: left;">What A New Lisp-Machine Could Look Like.</td>
   </tr>
   <tr>
-    <td><a href="https://grantsform.github.io/vaults/tyscape/index.html"><img src="/profile/asset/emojis/noto/noto-emoji-building_construction.webp" alt="🏗️" height="20"></a></td>
-    <td><a href="https://grantsform.github.io/vaults/tyscape/index.html">Tyscape</a></td>
+    <td><a href="https://grantsform.github.io/vaults/tscape/index.html"><img src="/profile/asset/emojis/noto/noto-emoji-building_construction.webp" alt="🏗️" height="20"></a></td>
+    <td><a href="https://grantsform.github.io/vaults/tscape/index.html">Tscape</a></td>
     <td style="text-align: left;">Mapping Out Metropolisp.</td>
   </tr>
   <tr>
